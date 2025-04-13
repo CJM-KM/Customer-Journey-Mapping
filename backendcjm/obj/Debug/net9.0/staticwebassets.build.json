@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YqFHftAjKmihCsasE9fUtK8sbxESp6hdQmPmVOZbmaE=",
+  "Source": "backendcjm",
+  "BasePath": "_content/backendcjm",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
