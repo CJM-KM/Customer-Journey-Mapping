@@ -1,0 +1,6 @@
+@CustomerJourney.API_HostAddress = http://localhost:5251
+
+GET {{CustomerJourney.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
